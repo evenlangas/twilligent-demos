@@ -115,7 +115,7 @@ a {
 .content {
   text-align: center; 
   width: 1000px;
-  max-width: 95%; 
+  max-width: 95% !important; 
   text-align: center; 
   margin: auto; 
   padding: 30px; 
